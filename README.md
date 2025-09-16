@@ -1,129 +1,116 @@
 # 👋 Hi, I'm **Sodiq Shodimu**  
-**Data Analyst | MSc Data Science & Artificial Intelligence (AI)**  
-London, England, United Kingdom  
+
+With strong analytical and problem-solving skills, I transform complex data into actionable insights that drive strategic decision-making. I thrive in high-pressure environments, managing multiple projects while maintaining accuracy, efficiency, and deadlines. My expertise spans **data analytics, database management, machine learning, and cloud systems**, complemented by hands-on experience in the **healthcare, hospitality, and IT industries**.  
 
 ---
 
-## 📫 Contact  
-- 📍 London, England, United Kingdom  
-- 📱 +44 7535 633007  
-- 📧 s.shodimu247@outlook.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sodiq247)  
-- 🖥️ [GitHub](https://github.com/Sodex247/)  
+## 🚀 About Me
+- 🔍 Data Analyst & IT Specialist with a proven track record in **data-driven process optimisation**.  
+- 🤝 Experienced in collaborating with finance, healthcare, and systems teams to streamline workflows.  
+- ⚡ Skilled in integrating **automation tools** and **emerging technologies** for improved reporting.  
+- 🌍 Remote & hybrid work experience across **healthcare, IT services, restaurants, and data security** sectors.  
 
 ---
 
-## 📝 Summary  
-Talented, motivated, results-driven **data professional** with proven success in transforming complex data into actionable insights that drive **strategic decision-making**.  
+## 🛠️ Tech & Analytical Proficiencies  
 
-- Skilled in cross-functional collaboration with **finance and systems teams** to enhance data accuracy and reporting efficiency.  
-- Experienced in **automation and emerging technologies** to streamline workflows.  
-- Strong foundation in **Computer Science**, with an **MSc in Data Science** and certifications including **CompTIA Data+, BCS Certified Business Analyst, and Certified Data Analyst**.  
-- Combines **technical expertise** with **business acumen** to deliver impact-driven solutions.  
+### 💻 Programming & Data Science  
+`Python` `Pandas` `NumPy` `Seaborn` `SPSS`  
+`Apache Airflow` `Git`  
+
+### 📊 Data Analytics & BI  
+`Power BI` `Tableau` `Looker` `DOMO`  
+`Google Analytics` `Google Data Studio` `BigQuery`  
+`Excel`  
+
+### 🤖 Machine Learning & Statistics  
+`Logistic Regression` `XGBoost` `Predictive Modelling`  
+`Statistical Analysis` `A/B Testing`  
+
+### 🗄️ Databases & Cloud  
+`PostgreSQL` `SQL Server` `MySQL` `Snowflake`  
+`AWS` `Azure` `Google Cloud Platform (GCP)`  
+
+### 🌐 Web & Digital Optimisation  
+`SEO Analytics` `Website Traffic Optimisation`  
+
+### 🔒 Security & Compliance  
+`GDPR` `ISO 27001`  
+`Encryption` `RBAC` `Server Management`  
+
+### 🌟 Soft Skills  
+✅ Analytical & Critical Thinking  
+✅ Problem-Solving & Strategic Planning  
+✅ Time Management & Work Ethic  
+✅ Collaborative & Detail-Oriented  
 
 ---
 
-## 🛠️ Top Skills  
-- **SQL**  
-- **Enterprise Resource Planning (ERP)**  
-- **Solaris**  
-
----
-
-## 📜 Certifications  
-- SQL Training Certificate  
-- Python 3  
-- Learn SQL Course  
-- BCS Business Analysis Certified  
-- Tableau Certified  
-
----
-
-## 💼 Professional Experience  
+## 💼 Work Experience  
 
 <details>
-<summary><b>🏥 Healthcare Data & Admin Analyst | NELFT NHS Foundation Trust (Oct 2024 – 2025)</b></summary>  
-
-- Managed and maintained large-scale patient & appointment databases (**NHS RIO, SystemOne**) with **98%+ accuracy**.  
-- Utilized CareDoc & clinical platforms to upload, organize, and secure clinical docs, reducing retrieval time by **40%**.  
-- Processed & tracked referrals, improving turnaround time by **25%**.  
-- Conducted daily system & equipment audits, maintaining **100% operational readiness**.  
-- Automated appointment reminders (email/SMS), cutting **no-shows by 30%**.  
-
+<summary><b>📊 Healthcare Data & Admin Analyst | NELFT NHS Foundation Trust (2024 - 2025)</b></summary>  
+- Managed patient & appointment databases (**RIO, SystemOne**) with **98%+ accuracy**.  
+- Reduced no-show rates by **30%** by automating appointment reminders.  
+- Streamlined referrals & routing, cutting turnaround time by **25%**.  
 </details>  
 
 <details>
-<summary><b>🍴 IT & Systems Manager | Sasha's CK Limited (Jan 2023 – 2025)</b></summary>  
-
-- Drove **digital transformation** by integrating data-driven strategies, infrastructure & analytics.  
-- Improved digital performance with **SEO analytics (Google Analytics, BigQuery, Data Studio)**, boosting traffic **30%**.  
-- Led **system migrations** (PostgreSQL, SQL Server, GCP), improving query performance **20%**.  
-- Built **real-time dashboards** (Power BI, Tableau, Looker), enabling **20% faster decisions**.  
-- Conducted **customer behavior analysis** with Python, SPSS & Excel, improving retention **15%**.  
-- Automated reporting pipelines with **Apache Airflow & AWS**, reducing latency **35%**.  
-- Mentored junior analysts & aligned cross-functional teams for better data literacy.  
-
+<summary><b>🍴 IT & Systems Manager | Sasha’s CK Ltd (2023 - 2025)</b></summary>  
+- Boosted website traffic by **30%** via **SEO & Google Analytics strategies**.  
+- Built **real-time dashboards (Power BI, Tableau, Looker)** for senior leadership.  
+- Automated reporting pipelines with **Apache Airflow & AWS**, reducing latency by **35%**.  
+- Conducted advanced customer behaviour analysis using **Python, SPSS & Excel**, improving retention by **15%**.  
 </details>  
 
 <details>
-<summary><b>🤖 Data Scientist | Stackciti Technologies (Sep 2021 – Dec 2022)</b></summary>  
-
-- Built ML models (**logistic regression, XGBoost**) on healthcare datasets, achieving **98% accuracy**.  
-- Automated ETL pipelines with **Pandas, SQL, Airflow**, reducing manual work **60%**.  
-- Created **interactive dashboards** (Tableau, Power BI) for customer behavior insights.  
-- Applied **A/B testing & statistical analysis**, uncovering **15% uplift in conversions**.  
-- Worked on **cloud-based ML deployment** (GCP, AWS, Colab).  
-
+<summary><b>🤖 Data Scientist | Stackciti Technologies (2021 - 2022)</b></summary>  
+- Built & evaluated ML models (**Logistic Regression, XGBoost**) achieving **98% accuracy**.  
+- Automated pipelines with **Pandas, SQL & Airflow**, cutting manual work by **60%**.  
+- Delivered dashboards in **Tableau & Power BI**, driving better stakeholder insights.  
 </details>  
 
 <details>
-<summary><b>📊 Senior Data Analyst | Dataletics (Jan 2020 – Aug 2021)</b></summary>  
-
-- Built predictive models, improving forecasting accuracy **45%** for $10M+ decisions.  
-- Maintained 10+ **Tableau dashboards** for C-level execs, improving decision-making speed **35%**.  
-- Designed cloud backup & recovery (**GCP, AWS**), ensuring **99.9% retention**.  
-- Enhanced security with **encryption & RBAC**, cutting unauthorized access **30%**.  
-- Optimized SQL queries, improving processing times **40%**.  
-- Delivered insights that improved **retention by 20%** & **campaign ROI by 15%**.  
-
+<summary><b>📈 Senior Data Analyst | Dataletics (2020 - 2021)</b></summary>  
+- Built predictive models, improving forecast accuracy by **45%**.  
+- Maintained 10+ **Tableau dashboards**, improving decision-making by **35%**.  
+- Strengthened data security with **AWS, GCP & encryption protocols**, cutting breaches by **30%**.  
 </details>  
 
 <details>
-<summary><b>📈 Data Analyst | Next Genz (Sep 2019 – Dec 2019)</b></summary>  
-
-- Analyzed datasets with **SQL, Excel, Python**, driving **15% increase in engagement**.  
-- Built KPI dashboards in **Tableau & Power BI**, enabling faster data-driven decisions.  
-- Automated workflows with **Pandas & NumPy**, reducing reporting time **40%**.  
-- Conducted **A/B testing**, boosting campaign ROI **18%**.  
-
+<summary><b>📊 Data Analyst | Next Genz (2019)</b></summary>  
+- Automated workflows with **Python (Pandas, NumPy)**, saving **40% time**.  
+- Performed A/B testing & analysis, increasing campaign ROI by **18%**.  
 </details>  
 
 <details>
-<summary><b>📊 Junior Data Analyst | Quiits (Feb 2017 – Aug 2019)</b></summary>  
-
-- Managed datasets in Excel & SQL, ensuring **100% GDPR compliance**.  
-- Developed dashboards in Power BI, contributing to **15% business growth**.  
-- Cleaned & structured raw data, improving reporting accuracy by **25%**.  
-- Conducted risk assessments & reduced reporting errors **30%**.  
-
+<summary><b>📊 Junior Data Analyst | Quiits (2017 - 2019)</b></summary>  
+- Supported GDPR compliance & ensured **100% governance adherence**.  
+- Built interactive dashboards in **Power BI**, contributing to **15% growth**.  
 </details>  
 
 <details>
-<summary><b>💾 Data Administrator (Database & Server Management) | Recarta IT (Nov 2015 – Jan 2017)</b></summary>  
-
-- Managed enterprise databases (**AWS, Azure, SQL Server, PostgreSQL**) with **99.9% uptime**.  
-- Implemented **security protocols** (encryption, MFA, RBAC), reducing threats **30%**.  
-- Led **SQL query optimization**, improving performance **40%**.  
-- Designed automated cloud **backup/recovery** with **Docker, GCP, AWS**, ensuring **99.9% retention**.  
-
+<summary><b>☁️ Data Administrator | Recarta IT (2015 - 2017)</b></summary>  
+- Managed enterprise-level databases on **AWS & Azure**, ensuring **99.9% uptime**.  
+- Led **SQL optimisation**, improving database speed by **40%**.  
+- Designed **automated cloud backup & recovery** with **GCP & Docker**, ensuring **99.9% retention**.  
 </details>  
 
 ---
 
 ## 🎓 Education  
-- 🎓 **MSc Data Science & Artificial Intelligence (AI)** — *University of Greenwich (2023 – 2024)*  
-- 🎓 **Data Analysis** — *ITonlinelearning (2024 – 2025)*  
-- 🎓 **BSc Computer Science** — *Oduduwa University (2010 – 2015)*  
+- 🎓 **MSc, Data Science & Artificial Intelligence** – University of Greenwich (2023 - 2024)  
+- 📜 **Data Analysis Training** – ITonlinelearning (2024 - 2025)  
+- 🎓 **BSc, Computer Science** – Oduduwa University (2010 - 2015)  
+
+---
+
+## 📫 Connect With Me  
+- 📍 London, England, UK  
+- 📞 +44 7535 633007  
+- 📧 Email: **s.shodimu247@outlook.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sodiq247)  
+- 💻 [GitHub](https://github.com/Sodex247/)  
 
 ---
 
